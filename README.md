@@ -1,6 +1,11 @@
 # audit4j-mongo
 
-
+Import this project as a depenedency in your project to write events to MongoDB<br>
+\<dependency\><br>
+			\<groupId\>audit4j-mongodb\</groupId\><br>
+			\<artifactId\>audit4j-mongodb\</artifactId\><br>
+			\<version\>0.0.1-SNAPSHOT\</version\><br>
+		\</dependency\><br>
 #audit4j conf file
 
 !Configuration<br>
